@@ -1,6 +1,6 @@
 ### Gloomy Day
 
-animals
+--- animals
 
 ```
 見とれていた
